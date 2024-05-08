@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/DVbwhfY/pexels-cottonbro-studio-4622218.jpg",
+      "title": "The Secret Garden Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "author": "Jane Doe",
+      "author_image": "https://i.ibb.co/zXLxfJk/image.png",
+      "posted_date": "2024-04-09",
+      "reading_time": 15,
+      "hashtags": ["fiction", "magic", "nature"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/jyQRHNM/pexels-lisa-fotios-3024995.jpg",
+      "title": "The Lost City Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "author": "John Smith",
+      "author_image": "https://i.ibb.co/vPfKnkw/image.png",
+      "posted_date": "2024-04-08",
+      "reading_time": 20,
+      "hashtags": ["adventure", "exploration", "mystery"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/dBgsM7q/pexels-monstera-production-6373497.jpg",
+      "title": "Beyond the Stars Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "author": "Alice Johnson",
+      "author_image": "https://i.ibb.co/TMVDwF8/image.png",
+      "posted_date": "2024-04-07",
+      "reading_time": 10,
+      "hashtags": ["sciencefiction", "space", "discovery"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/8bN0jh1/pexels-andrea-piacquadio-3853494.jpg",
+      "title": "The Enchanted Forest Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "author": "Robert Brown",
+      "author_image": "https://i.ibb.co/2KKz7TS/image.png",
+      "posted_date": "2024-04-06",
+      "reading_time": 25,
+      "hashtags": ["fantasy", "magic", "quest"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://i.ibb.co/Xx9LYY4/pexels-maddy-freddie-6629378.jpg",
+      "title": "Murder in the Manor Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "author": "Emily White",
+      "author_image": "https://i.ibb.co/d0gLbws/image.png",
+      "posted_date": "2024-04-05",
+      "reading_time": 30,
+      "hashtags": ["mystery", "crime", "suspense"]
+    }
+  ]
+  
